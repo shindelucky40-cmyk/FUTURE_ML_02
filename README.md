@@ -2,15 +2,6 @@
 
 > An end-to-end Machine Learning pipeline that automatically classifies customer support tickets and assigns priority levels — reducing manual sorting effort and helping support teams respond faster.
 
-<br>
-
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.1+-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1.5+-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat)
-
----
 
 ## 📌 Problem Statement
 
@@ -185,8 +176,10 @@ support-ticket-ml/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/your-username/support-ticket-ml.git
-cd support-ticket-ml
+git clone https://github.com/shindelucky40-cmy
+FUTURE_ML_02
+cd 
+FUTURE_ML_02
 ```
 
 **2. Install dependencies**
@@ -252,6 +245,9 @@ print(result)
 - **Feedback loop** — production labels continuously improve accuracy
 
 ---
+## Author -
+
+     lalit shinde 
 
 ## 📄 License
 
