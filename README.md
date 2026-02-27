@@ -3,6 +3,16 @@
 > An end-to-end Machine Learning pipeline that automatically classifies customer support tickets and assigns priority levels — reducing manual sorting effort and helping support teams respond faster.
 
 
+<img width="890" height="354" alt="Screenshot 2026-02-27 143450" src="https://github.com/user-attachments/assets/c09b5542-dee4-44f0-bbaf-676a00d18850" /> 
+<img width="881" height="286" alt="Screenshot 2026-02-27 143512" src="https://github.com/user-attachments/assets/74ca8bc4-199b-4497-9b82-6f536efa77f8" />
+<img width="885" height="215" alt="Screenshot 2026-02-27 143529" src="https://github.com/user-attachments/assets/3ad8447d-6a67-45bb-8d72-81ab807b81ad" />
+<img width="884" height="339" alt="Screenshot 2026-02-27 143542" src="https://github.com/user-attachments/assets/6a54f335-089f-476f-8511-0015382be5f1" />
+<img width="892" height="403" alt="Screenshot 2026-02-27 143559" src="https://github.com/user-attachments/assets/57dbadb8-69e7-48e7-bd91-d8a04c5cbeb8" />
+<img width="879" height="331" alt="Screenshot 2026-02-27 143615" src="https://github.com/user-attachments/assets/054012b3-bcce-44aa-b2d2-389343d4d8d0" />
+<img width="878" height="242" alt="Screenshot 2026-02-27 143635" src="https://github.com/user-attachments/assets/32242a18-5bf6-41f1-9dc8-a7055cbb0d71" />
+
+
+
 ## 📌 Problem Statement
 
 Support teams receive hundreds of tickets daily. Reading, categorizing, and routing each one manually is slow, inconsistent, and expensive.
