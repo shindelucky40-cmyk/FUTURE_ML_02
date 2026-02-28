@@ -259,10 +259,4 @@ print(result)
 
      lalit shinde 
 
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
-
----
-
 *Built as an ML Internship Portfolio Project*
